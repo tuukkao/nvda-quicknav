@@ -8,6 +8,7 @@ Just throw [quickNav.py](quickNav.py) into the globalPlugins directory of your N
 Press ctrl+- to toggle quick navigation on or off. When quick navigation is on, left anv right arrow keys are used to move on the page line by line, whereas up and down arrow keys move by the selected element (headings by default). The active element can be selected with ctrl+left arrow and ctrl+right arrow. You can move by all the elements supported by the conventional quick navigation keys as well as by word and character.
 ## Todo
 * A dialog for reordering/hiding element types.
+
 ## Author
 Tuukka Ojala <tuukka.ojala@gmail.com>
 
